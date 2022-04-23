@@ -39,8 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
+
+![](https://i.imgur.com/CQL037b.gif)
+
+![](https://i.imgur.com/GLKAJFx.gif)
+
 ![](gif3-link-here)
 ![](gif4-link-here)
 
@@ -55,15 +58,15 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-[I do not really have any questions about web development, I understand the process and the effort required to make a really good website and/or web application. The logic of JavaScript, HTML, and CSS all make perfect sense to me. JavaScript is how most websites get their functionality, HTML is what gives a website its text, and CSS is how websites get styled(background color, text fonts, button shapes, etc.). I also feel as though if I were required to complete another project along these lines I would definitely be able to come up with something fully functional from scratch.]
+[I do not really have any questions about web development, I have a general understanding of the responsibilities held by both front and beack-end developers. I also understand the process and the effort required to make a really good website and/or web application. The logic of JavaScript, HTML, and CSS all make perfect sense to me. JavaScript is how most websites get their functionality, HTML is what gives a website its text, and CSS is how websites get styled (background color, text fonts, button shapes, etc.). I also feel as though if I were required to complete another project along these lines I would definitely be able to come up with something fully functional from scratch.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-[If I had more time to work on this function I would be spending that time adding additional features because as I work through my code I try to make sure it is as neat and concise as possible, doing this tends to cause me to lose time when it comes to completing all of the code but if I did have extra time I would be using that time to add features to my project since it allows me to hone my skills at coding efficiently, remembering necessary logic, and as well as try out new ways to code certain functions this way I become a much more efficient programmer overall.]
+[If I had more time to work on this function I would be spending that time adding additional features because as I work through my code I try to make sure it is as neat and concise as possible, doing this tends to cause me to lose time when it comes to completing all of the code but if I did have extra time I would be using that time to add features to my project since it allows me to hone my skills at coding efficiently, remembering necessary logic, and as well as try out new ways to code certain functions this way I become a much more efficient programmer overall. In terms of adding more features I would definitely try an add a function that allows me to add a game mode where I randomize the number of clues given per turn, this way the game has an entirely  new feel and functionality to it.]
 
 
 ## Interview Recording URL Link
-[My 5-minute Interview Recording] (your-link-here)
+[My 5-minute Interview Recording] (https://youtu.be/pSLeaw4bacE)
 
 
 ## License
